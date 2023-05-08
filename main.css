@@ -267,12 +267,12 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 700px; /* Adjust the height value as needed */
+  height: 700px;
 }
 
 .offers-container-biznis {
   display: flex;
-  justify-content: space-around; /* or use a smaller value for space-between */
+  justify-content: space-around; 
   width: 100%;
   margin-top: 60px;
 }
@@ -286,15 +286,15 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  height: 700px; /* Adjust the height value as needed */
+  height: 700px;
 }
 
 .offers-container-web-hosting {
   display: flex;
-  justify-content: space-around; /* or use a smaller value for space-between */
+  justify-content: space-around; 
   width: 100%;
   align-items: center;
-  height: 100%; /* make sure the container has a height */
+  height: 100%;
 }
 
 .offers-container-web-hosting a {
@@ -581,7 +581,7 @@ footer {
   }
 
   .section-2-biznis {
-    height: auto; /* Adjust the height value as needed */
+    height: auto; 
   }
 
   .offers-container-web-hosting {
@@ -590,6 +590,6 @@ footer {
   }
 
   .section-2-web {
-    height: auto; /* Adjust the height value as needed */
+    height: auto; 
   }
 }
